@@ -1,0 +1,4 @@
+Kauno dienos;0,5
+Pasaka;1,31
+Naujienos;1,2
+Pyragai;0,53

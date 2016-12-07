@@ -1,0 +1,7 @@
+Jonas Jonaitis;Kauno dienos;4;5
+Petras Petraitis;Pasaka;7;3
+Rasa Rasaitë;Naujienos;2;10
+Lina Linaitë;Kauno dienos;3;7
+Benas Benaitis;Pasaka;2;5
+Toma Tomaitë;Pyragai;2;10
+Milda Mildutë;Pasaka;12;1
